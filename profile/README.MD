@@ -8,7 +8,7 @@ You Can Find us,
 <br>
 In [The Blue Alliance](https://www.thebluealliance.com/team/7067)
 <br>
-[FIRSTinspires](https://frc-events.firstinspires.org/2024/team/7067) website
+[FIRSTinspires](https://frc-events.firstinspires.org/team/7067) website
 <br>
 [Youtube](https://www.youtube.com/channel/UCU5_n9liSAxY9lipOwYap_Q)
 <br>
