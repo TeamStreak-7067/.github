@@ -4,13 +4,15 @@ Hello!,
 We are FIRST® Robotics Competition Team 7067, Located, at Keshet Re'em School, Jerusalem, Israel
 <br>
 ### where can you find us?
-You Can Find us,
+You Can Find us
 <br>
-In [The Blue Alliance](https://www.thebluealliance.com/team/7067)
+In [Our Website](https://teamstreak7067.tech),
+<br>
+[The Blue Alliance](https://www.thebluealliance.com/team/7067),
 <br>
 [FIRSTinspires](https://frc-events.firstinspires.org/team/7067) website
 <br>
-[Youtube](https://www.youtube.com/channel/UCU5_n9liSAxY9lipOwYap_Q)
+And [Youtube](https://www.youtube.com/channel/UCU5_n9liSAxY9lipOwYap_Q).
 <br>
 ### What is FIRST®?
 FIRST stands for
